@@ -20,31 +20,6 @@ The IP Address Finder is a console-based application developed in C to manage an
 - **Programming Language:** C
 - **Libraries:** Standard C Libraries
 
-## How to Use
-
-### Prerequisites
-
-- A C compiler (e.g., gcc, clang)
-- Visual Studio Code (or any other C IDE)
-
-### Installation
-
-1. **Clone the Repository**
-    ```bash
-    git clone https://github.com/YourUsername/IP-Address-Finder.git
-    cd IP-Address-Finder
-    ```
-
-2. **Compile the Code**
-    ```bash
-    gcc -o IPAddressFinder main.c
-    ```
-
-3. **Run the Program**
-    ```bash
-    ./IPAddressFinder
-    ```
-
 ## Code Structure
 
 - `main.c`: The main file containing the implementation of the IP Address Finder using Splay Tree.
